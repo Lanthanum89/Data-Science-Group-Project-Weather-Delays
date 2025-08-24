@@ -1,4 +1,4 @@
-## CFG Degree Data Science Group Project
+# CFG Degree Data Science Group Project
 # Flight Delays Weather Data Analysis
 
 ## Contributors: 

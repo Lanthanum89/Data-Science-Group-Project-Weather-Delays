@@ -56,9 +56,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn openmeteo-requests requ
 
 ## Results & Insights
 - Florida is the State with the most flight delays for any cause, followed by Texas.
-- <img width="570" height="539" alt="statedelays" src="https://github.com/user-attachments/assets/93223ca2-05a0-4554-b913-a1d0cc319062" />
+  
+  <img width="570" height="539" alt="statedelays" src="https://github.com/user-attachments/assets/93223ca2-05a0-4554-b913-a1d0cc319062" />
+
 - Most flights are not delayed by weather, leading to class imbalance in the data.
-- <img width="571" height="590" alt="breakdown" src="https://github.com/user-attachments/assets/aca656a4-c668-4689-ad8a-24f86a139691" />
+  
+  <img width="571" height="590" alt="breakdown" src="https://github.com/user-attachments/assets/aca656a4-c668-4689-ad8a-24f86a139691" />
+
 - Models are highly accurate at predicting non-delayed flights, but less effective at identifying weather-related delays as a result of the imbalanced data.
 - Further work is needed to improve predictions for rare but important weather delay events. This could include work on balancing our data set for predictive modelling or pivot to other reasons for flight delays.
 

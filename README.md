@@ -52,7 +52,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn openmeteo-requests requ
 ## Data Sources
 - Bureau of Transport Statistics – flight delays data for January 2025 for internal flights in the USA (delays_by_flight.csv)
 - Historical Weather API (open-meteo) – Daily weather data for origin and destination airports (https://open-meteo.com/en/docs/historical-weather-api)
-- Kaggle – IATA airport codes and longitude and latitude values (airports.csv) 
+- Kaggle – IATA airport codes and longitude and latitude values (airports.csv)
+
+
+<img width="570" height="539" alt="statedelays" src="https://github.com/user-attachments/assets/93223ca2-05a0-4554-b913-a1d0cc319062" /><img width="571" height="590" alt="breakdown" src="https://github.com/user-attachments/assets/aca656a4-c668-4689-ad8a-24f86a139691" />
+
 
 ## Results & Insights
 - Florida is the State with the most flight delays for any cause, followed by Texas.
